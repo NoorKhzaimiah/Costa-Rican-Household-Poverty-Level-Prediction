@@ -1,6 +1,7 @@
 # Costa-Rican-Household-Poverty-Level-Prediction
 Kaggle competition / Machine Learning -  Python
 link : https://www.kaggle.com/c/costa-rican-household-poverty-prediction
+https://www.kaggle.com/noorkhzaimiah/costarican
 # Overview
 The Inter-American Development Bank is asking the Kaggle community for help with income qualification for some of the world's poorest families. Are you up for the challenge?
 
@@ -188,6 +189,7 @@ agesq, Age squared
  #  Naive Bayes algorithm With accuracy = 0.375
 # K-neighbors Algorithm With accuracy = 0.316
 # Random forest Algorithm With accuracy = 0.380
+https://www.kaggle.com/noorkhzaimiah/costarican
 
 ![2019-01-15 8](https://user-images.githubusercontent.com/45902607/51197991-b1c75780-18fb-11e9-90b5-c99dea31821e.png)
 
