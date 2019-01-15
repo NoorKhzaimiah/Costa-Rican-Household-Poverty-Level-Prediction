@@ -1,6 +1,6 @@
 # Costa-Rican-Household-Poverty-Level-Prediction
 Kaggle competition / Machine Learning -  Python
-
+link : https://www.kaggle.com/c/costa-rican-household-poverty-prediction
 # Overview
 The Inter-American Development Bank is asking the Kaggle community for help with income qualification for some of the world's poorest families. Are you up for the challenge?
 
